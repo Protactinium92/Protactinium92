@@ -2,6 +2,8 @@
 
 I am Pierre-Alexandre from France !  
 
+Chemist & Data Scientist ==> Chemoinformatician & Bioinformatician
+
 - 🏫 Master student in Chemøinformatics and Structural Bioinformatics - In Silico Drug Design
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/pierre-alexandre-ho-5bbb9113a/)
 - 🚀 Star Wars fan ;) 
